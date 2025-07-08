@@ -1,8 +1,3 @@
-<div>
-## 👋 Hi there! I'm [Your Name]  
-Welcome to my GitHub profile!  
-  
-</div>
 
 <div>
   <!--Body-->
