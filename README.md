@@ -8,7 +8,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a ...<br/>
+  #### :raising_hand: 저는 황가온입니다. ...<br/>
   #### :fire: I aim to become a ...<br/>
   #### :mortar_board: ...
   <br/>
